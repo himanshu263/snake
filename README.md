@@ -10,11 +10,8 @@ A classic Snake game built with simple web tech — fast, addictive, and perfect
 
 ⸻
 
-Demo
-
-Add a link or GIF here (example):
-Demo: https://your-site-or-gh-pages-link.example.com
-or drop a GIF called demo.gif in the repo and reference it below.
+Demo-live
+https://himanshu263.github.io/snake/
 
 
 ⸻
